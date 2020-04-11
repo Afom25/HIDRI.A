@@ -117,7 +117,7 @@
 
 .about-text {
     padding: 20px;
-    ;
+    font-family: 'Patrick Hand', cursive;
 }
 
 #about-image {
@@ -277,7 +277,12 @@ h3 {
 /* Javascript style*/
 #detail1,
 #detail2,
-#detail3,
+#detail3{
+    display: none;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: rgb(15, 10, 10);
+    font-size: 20px;;
+}
 #detail4,
 #detail5,
 #detail6,
