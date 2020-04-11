@@ -3,6 +3,15 @@
 
 
 $(document).ready(function(){
+    $("#hidri-image").click(function(){
+        $("#detail00").show();
+        $("#hidri-image").hide();
+    })
+    $("#detail00").click(function(){
+        $("#hidri-image").show();
+        $("#detail00").hide();
+    })
+
     $("#project-img1").click(function(){
         $("#detail1").show();
         $("#project-img1").hide();
