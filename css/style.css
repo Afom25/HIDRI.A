@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+/* Navbar section */
+
+/* Home section */
+
+#home{
+    background:url(../image/bk3.jpeg)no-repeat
+    center center/cover;
+    height: 100vh;
+}
+.home-heading , .home-heading4 ,
+.home-heading2 , .home-heading3{
+    color:white;
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+}
+.home-heading{
+    position: absolute;
+    top:45%;
+    left:50%; 
+    transform: translate(-50%,-50%);
+    color: white;
+    width: max-content;
+}
+.home-heading2 {
+    position: absolute;
+    top:55%;
+    left:50%; 
+    transform: translate(-50%,-50%);
+    color: white;
+    width: max-content; 
+}
+
+.home-heading3{
+    position: absolute;
+    top:60%;
+    left:50%; 
+    transform: translate(-50%,-50%);
+    color: white;
+    width: max-content; 
+}.home-heading4{
+    position: absolute;
+    top:65%;
+    left:50%; 
+    transform: translate(-50%,-50%);
+    color: white;
+    width: max-content;
+}
+#hidri-icon{
+    border-radius: 50%;
+    width:50px;
+    height: 50px;
+}
+h6{
+    color:white;
+}
