@@ -255,13 +255,27 @@ h3 {
 
 }
 
-
 /* Javascript style*/
-#detail1 {
-    display: none;
+#detail1,
+#detail2,
+#detail3,
+#detail4,
+#detail5,
+#detail6,
+#detail7,
+#detail18{
+  display: none;
 }
 
-#detail-img {
+#detail-img,
+#detail-img2,
+#detail-img3,
+#detail-img4,
+#detail-img5,
+#detail-img6,
+#detail-img7,
+#detail-img8
+{
     width: 100px;
     height: 100px;
     border-radius: 50%;
