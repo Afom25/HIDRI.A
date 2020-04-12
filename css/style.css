@@ -7,7 +7,62 @@
     height: 100vh;
 }
 
-
+.hidri{
+    position: absolute;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    width: fit-content;
+    font-family: 'Righteous', cursive;
+    font-size: 18px;;
+}
+.centered0 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    /* width: fit-content; */
+    font-family: 'Righteous', cursive;
+  }
+  .centered1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    /* width: fit-content; */
+    font-family: 'Righteous', cursive;
+  }
+  .centered2{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    /* width: fit-content; */
+    font-family: 'Righteous', cursive;
+  }
+  .centered3 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    /* width: fit-content; */
+    font-family: 'Righteous', cursive;
+  }
+  .centered4 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    /* width: fit-content; */
+    font-family: 'Righteous', cursive;
+  }
 
 .home-heading {
     position: absolute;
@@ -15,7 +70,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    width: fit-content;
+    /* width: fit-content; */
     font-family: 'Righteous', cursive;
     font-size: 18px;;
 }
