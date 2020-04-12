@@ -7,14 +7,7 @@
     height: 100vh;
 }
 
-.home-heading,
-.home-heading4,
-.home-heading2,
-.home-heading3 {
-    color: white;
-    font-size: 25px;
-    font-family: 'Righteous', cursive;
-}
+
 
 .home-heading {
     position: absolute;
@@ -22,7 +15,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    width: max-content;
+    width: fit-content;
+    font-family: 'Righteous', cursive;
     font-size: 18px;;
 }
 
@@ -32,7 +26,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    width: max-content;
+    width: fit-content;
+    font-family: 'Righteous', cursive;
     font-size: 20px;;
 }
 
@@ -42,7 +37,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    width: max-content;
+    width: fit-content;
+    font-family: 'Righteous', cursive;
     font-size: 20px;;
 }
 
@@ -52,8 +48,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    font-family: 'Righteous', cursive;
     font-size: 20px;;
-    width: max-content;
+    width: fit-content;
 }
 
 #hidri-icon {
