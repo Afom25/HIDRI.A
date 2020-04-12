@@ -93,9 +93,10 @@ $ (function(){
     new WOW().init();   
 });
 $(window).on('load',function(){
-    $("#").addClass("animated fadeInDown");
-    $("#").addClass("animated fadeInRight");
-    $("#").addClass("animated zoomIn");
-    $("#").addClass("animated fadeDown infinite");
+    $("#hidri-image").addClass("animated zoomIn");
+    // $(".centered0").addClass("animated pulse");
+    // $(".centered2").addClass("animated zoomIn");
+    // $(".centered3").addClass("animated flash");
+    // $(".centered4").addClass("animated flash");
 
 });
