@@ -23,6 +23,7 @@
     transform: translate(-50%, -50%);
     color: white;
     width: max-content;
+    font-size: 18px;;
 }
 
 .home-heading2 {
@@ -32,6 +33,7 @@
     transform: translate(-50%, -50%);
     color: white;
     width: max-content;
+    font-size: 20px;;
 }
 
 .home-heading3 {
@@ -41,6 +43,7 @@
     transform: translate(-50%, -50%);
     color: white;
     width: max-content;
+    font-size: 20px;;
 }
 
 .home-heading4 {
@@ -49,6 +52,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    font-size: 20px;;
     width: max-content;
 }
 
