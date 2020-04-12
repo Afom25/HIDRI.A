@@ -38,7 +38,7 @@
   }
   .centered2{
     position: absolute;
-    top: 55%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -47,7 +47,7 @@
   }
   .centered3 {
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -56,7 +56,7 @@
   }
   .centered4 {
     position: absolute;
-    top: 65%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -64,49 +64,8 @@
     font-family: 'Righteous', cursive;
   }
 
-.home-heading {
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    /* width: fit-content; */
-    font-family: 'Righteous', cursive;
-    font-size: 18px;;
-}
 
-.home-heading2 {
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    width: fit-content;
-    font-family: 'Righteous', cursive;
-    font-size: 20px;;
-}
 
-.home-heading3 {
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    width: fit-content;
-    font-family: 'Righteous', cursive;
-    font-size: 20px;;
-}
-
-.home-heading4 {
-    position: absolute;
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-family: 'Righteous', cursive;
-    font-size: 20px;;
-    width: fit-content;
-}
 
 #hidri-icon {
     border-radius: 50%;
@@ -117,12 +76,12 @@
 #hidri-image {
     border-radius: 50%;
     position: absolute;
-    top: 80%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
     width: max-content;
-    width: 100px;
+    width: 80px;
 
 }
 #detail00 {
