@@ -37,6 +37,7 @@ $(document).ready(function(){
         $("#project-img3").show();
         $("#detail3").hide();
     })
+    
     $("#project-img4").click(function(){
         $("#detail4").show();
         $("#project-img4").hide();
