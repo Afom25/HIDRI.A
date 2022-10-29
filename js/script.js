@@ -1,7 +1,3 @@
-
-
-
-
 $(document).ready(function(){
     $("#hidri-image").click(function(){
         $("#detail00").show();
